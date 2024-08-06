@@ -2,7 +2,7 @@
  <br>
 <h3 align="center">
   <samp> Hey there, I am
-    <b><a target="_blank" href="https://www.linkedin.com/in/midhun-k-paniker-726226231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Midhun K Paniker</a></b>
+    <b><a target="_blank" href="https://midhunkalarikkal.github.io/portfoliowebsite/">Midhun K Paniker</a></b>
   </samp>
 </h3>
 
@@ -11,6 +11,8 @@
     <br>
     A self-taught MERN-stack web developer, passionate about coding and always eager to dive into new technologies. With a strong interest in creating innovative projects, I continuously strive to expand my skills and contribute to impactful solutions.
     <br><br>
+    <a align="center" href="https://midhunkalarikkal.github.io/portfoliowebsite/">https://midhunkalarikkal.github.io/portfoliowebsite/</a>
+    <br>
   </samp>
 </p>
 
