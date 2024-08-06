@@ -11,7 +11,7 @@
     <br>
     A self-taught MERN-stack web developer, passionate about coding and always eager to dive into new technologies. With a strong interest in creating innovative projects, I continuously strive to expand my skills and contribute to impactful solutions.
     <br><br>
-    <a align="center" href="https://midhunkalarikkal.github.io/portfoliowebsite/">https://midhunkalarikkal.github.io/portfoliowebsite/</a>
+    <a align="center" href="https://midhunkalarikkal.github.io/portfoliowebsite/">Check out my portfolio to see my latest projects!</a>
     <br>
   </samp>
 </p>
