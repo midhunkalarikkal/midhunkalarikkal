@@ -16,9 +16,14 @@
     <br /><br />
     🚀 I'm also an <strong>Open Source Contributor</strong>! Recently, I contributed a new skeleton category to <a target="_blank" href="https://blocks.mvp-subha.me/docs/skeletons">MVPBlocks</a> — check it out!
     <br /><br />
-    📂 <a target="_blank" href="https://midhunkpaniker.vercel.app/">Explore my portfolio to see my latest projects</a>
   </samp>
 </h3>
+
+<br />
+
+<h2 align="center">
+    📂 <a target="_blank" href="https://midhunkpaniker.vercel.app/">Explore my portfolio to see my latest projects</a>
+</h2>
 
 <br />
 
