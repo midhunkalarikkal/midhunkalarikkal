@@ -37,7 +37,6 @@
   </a>
 </p>
 
-
 <h3 align="center">
   <samp>🧠 Tools, Languages & Tech I Use</samp>
 </h3>
@@ -115,18 +114,16 @@
   <!-- Row 1: GitHub Stats + GitHub Streak -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=midhunkalarikkal&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunkalarikkal&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
-  </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunkalarikkal&theme=github_dark_dimmed&hide_border=true" alt="GitHub Stats" />
+      </div>
 
   <br/>
 
   <!-- Row 2: Top Languages + LeetCode Stats -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunkalarikkal&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    
-    <img src="https://leetcard.jacoblin.cool/midhunkpaniker?theme=dark&font=baloo" alt="LeetCode Stats" />
-  </div>
+    <img src="https://leetcard.jacoblin.cool/midhunkpaniker?theme=dark&font=baloo" alt="Top Languages" />
+      </div>
 
   <br/>
 
@@ -134,4 +131,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=midhunkalarikkal&theme=darkhub&no-frame=true" alt="Trophies" />
 
 </div>
-
