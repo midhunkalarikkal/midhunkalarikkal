@@ -1,31 +1,45 @@
  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" />
  <br>
 <h3 align="center">
-  <samp> Hey there, I am
+  <samp>
+    Hey there, I am<br />
     <b><a target="_blank" href="https://midhunkpaniker.vercel.app/">Midhun K Paniker</a></b>
   </samp>
 </h3>
 
 <p align="center">
   <samp>
-    <br>
-    A self-taught MERN-stack web developer, passionate about coding and always eager to dive into new technologies. With a strong interest in creating innovative projects, I continuously strive to expand my skills and contribute to impactful solutions.
-    <br><br>
-    <a align="center" href="https://midhunkpaniker.vercel.app/">Check out my portfolio to see my latest projects!</a>
-    <br>
-
-- _🔭 I’m currently pursugin MERN Stack at Brototype_
-- _🌱 I’m currently learning WebSocket_
-
-- _❓ Ask me about anything related to MERN stack and related technologies_  
- </samp>
+    <br />
+    A self-taught <strong>MERN Stack Developer</strong>, passionate about building modern web applications and exploring cutting-edge technologies. I believe in clean code, continuous learning, and contributing to impactful open source solutions.
+    <br /><br />
+    🚀 I'm also an <strong>Open Source Contributor</strong>! Recently, I contributed a new skeleton category to <a target="_blank" href="https://blocks.mvp-subha.me/docs/skeletons">MVPBlocks</a> — check it out!
+    <br /><br />
+    📂 <a target="_blank" href="https://midhunkpaniker.vercel.app/">Explore my portfolio to see my latest projects</a>
+  </samp>
 </p>
 
-## 🌐 Socials:
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/midhun-k-paniker-726226231) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Midhun_k__) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/midhun_kalarikkal__) 
+<p align="center">
+  <a href="https://www.npmjs.com/~midhunkpaniker" target="_blank">
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+  <a href="https://x.com/midhunkpaniker" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/midhunkpaniker" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/midhunkpaniker" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:midhunkpaniker@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/midhunkpaniker" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
