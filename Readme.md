@@ -115,7 +115,10 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunkalarikkal&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
   <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunkalarikkal&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br />
+  <img src="https://leetcard.jacoblin.cool/midhunkalarikkal?theme=dark&font=baloo" alt="LeetCode Stats" />
+  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=midhunkalarikkal&theme=darkhub&no-frame=true" alt="Trophies" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunkalarikkal&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
